@@ -1,5 +1,5 @@
 # WeeklyMeet
-This repo contains the materials I talked with my advisor at weekly meet. 
+This repo contains the materials I talked with my advisor when we meet. 
 
 ## Content 
 ### Apr 12
