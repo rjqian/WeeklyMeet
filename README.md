@@ -1,5 +1,5 @@
 # WeeklyMeet
-This repo contains the materials I talked with my advisor when we met weekly. For the PDF file of these materials, please see the corresponding folder named after the day we met. 
+This repo contains the materials I talked with my advisor when we met weekly. For the PDF files of these materials, please see the corresponding folder named after the day we met. 
 
 ## Content 
 ### Apr 12
