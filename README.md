@@ -2,12 +2,12 @@
 This repo contains the materials I talked with my advisor when we met weekly. For the PDF files of these materials, please see the corresponding folder named after the day we met. 
 
 ## Content 
-### Apr 12 RNNs Based Time Series Forecasting
+### Apr 12  RNNs Based Time Series Forecasting
 Sirignano, J., Cont, R. (2018), Universal Features of Price Formation in Financial Markets: Perspective from Deep Learning, *arXiv*: 1803.06917v1. 
 
 Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-based Spatio-Temporal Forecasting, in *ICML 2017 Time Series Workshop*, Sydney, Australia.  
 
-### Apr 19 Stock Price Prediction via Traditional Machine Learning
+### Apr 19  Stock Price Prediction via Traditional Machine Learning
 (Shrinked version) N. Kercheval, A., Zhang, Y. (2013), Modeling High-frequency *Limit* Order Book Dynamics with Support Vector Machines. 
 
 (Detailed version) Zhang, Y. (2013), Modeling High-Frequency Order Book Dynamics with Support Vector Machines, Doctor of Philosophy Thesis, Florida State University. 
