@@ -10,6 +10,6 @@ Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-
 ### Apr 19  Stock Price Prediction via Traditional Machine Learning
 (Shrinked version) N. Kercheval, A., Zhang, Y. (2013), Modeling High-frequency *Limit* Order Book Dynamics with Support Vector Machines. 
 
-(Detailed version) Zhang, Y. (2013), Modeling High-Frequency Order Book Dynamics with Support Vector Machines, Doctor of Philosophy Thesis, Florida State University. 
+(Detailed version) Zhang, Y. (2013), Modeling High-Frequency Order Book Dynamics with Support Vector Machines, Doctor of Philosophy Thesis, Florida State University, Tallahassee, USA. 
 
 (Related blog) Zhulenev, E. (2014), Stock Price Prediction With Big Data and Machine Learning, http://eugenezhulenev.com/blog/2014/11/14/stock-price-prediction-with-big-data-and-machine-learning/. 
