@@ -7,7 +7,7 @@ Sirignano, J., Cont, R. (2018), Universal Features of Price Formation in Financi
 
 Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-based Spatio-Temporal Forecasting, in *ICML 2017 Time Series Workshop*, Sydney, Australia.  
 
-### Apr 19  Stock Price Prediction via Traditional Machine Learning
+### Apr 19  Stock Price Prediction with Traditional Machine Learning
 (Shrunk version) N. Kercheval, A., Zhang, Y. (2013), Modeling High-frequency *Limit* Order Book Dynamics with Support Vector Machines. 
 
 (Detailed version) Zhang, Y. (2013), Modeling High-Frequency Order Book Dynamics with Support Vector Machines, Doctor of Philosophy Thesis, Florida State University, Tallahassee, USA. 
