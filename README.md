@@ -5,7 +5,7 @@ This repo contains the materials I talked with my advisor when we met weekly. Fo
 ### Apr 12  RNNs Based Time Series Forecasting
 Sirignano, J., Cont, R. (2018), Universal Features of Price Formation in Financial Markets: Perspective from Deep Learning, *arXiv*: 1803.06917v1. 
 
-Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-based Spatio-Temporal Forecasting, in *ICML 2017 Time Series Workshop*, Sydney, Australia.  
+Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-based Spatio-Temporal Forecasting, in *ICML Time Series Workshop 2017*, Sydney, Australia.  
 
 ### Apr 19  Stock Price Prediction with SVM
 (Shrunk version) N. Kercheval, A., Zhang, Y. (2013), Modeling High-frequency *Limit* Order Book Dynamics with Support Vector Machines. 
@@ -15,4 +15,4 @@ Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-
 (Related post) Zhulenev, E. (2014), Stock Price Prediction With Big Data and Machine Learning, http://eugenezhulenev.com/blog/2014/11/14/stock-price-prediction-with-big-data-and-machine-learning/. 
 
 ### May 10  Time Series Forecasting with Random Forest
-J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction, in *NIPS 2016*, Long Beach, New York, USA.  
+J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction, in *NIPS Time Series Workshop 2016*, Long Beach, New York, USA.  
