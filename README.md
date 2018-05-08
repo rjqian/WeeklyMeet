@@ -14,8 +14,8 @@ Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-
 
 (Related post) Zhulenev, E. (2014), Stock Price Prediction With Big Data and Machine Learning, http://eugenezhulenev.com/blog/2014/11/14/stock-price-prediction-with-big-data-and-machine-learning/. 
 
-### May 3  Bitcoin Price Prediction with Logistic Regression, LDA & Random Forest
+### May 10  I Bitcoin Price Prediction with Logistic Regression, LDA & Random Forest
 J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction, in *NIPS Time Series Workshop 2016*, Barcelona, Spain. 
 
-### May 10  Time Series Signal Denoising via Low-rank Matrix Approximation
+### May 10  II Time Series Signal Denoising via Low-rank Matrix Approximation
 Agarwal, A., J. Amjad, M., Shah, D. & Shen D. (2017), Time Series Forecasting via Matrix Estimation, in *NIPS Time Series Workshop 2017*, Long Beach, New York, USA. 
