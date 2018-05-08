@@ -17,5 +17,5 @@ Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-
 ### May 3  Bitcoin Price Prediction with Logistic Regression, LDA & Random Forest
 J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction, in *NIPS Time Series Workshop 2016*, Barcelona, Spain. 
 
-### May 10  Time Series Forecasting via Matrix/Graph Estimation
+### May 10  Time Series Signal Denoising via Low-rank Matrix Approximation
 Agarwal, A., J. Amjad, M., Shah, D. & Shen D. (2017), Time Series Forecasting via Matrix Estimation, in *NIPS Time Series Workshop 2017*, Long Beach, New York, USA. 
