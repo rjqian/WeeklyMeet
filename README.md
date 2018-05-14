@@ -19,3 +19,5 @@ J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction
 
 ### May 17  Recent evolution in RNNs: Statistical Recurrent Unit
 B. Oliva, J., Poczos, B., Schneider, J. (2017), The Statistical Reccurent Unit, in *ICML 2017*, Sydney, Australia. 
+
+(codes on Github) https://github.com/junieroliva/recurrent
