@@ -23,3 +23,5 @@ B. Oliva, J., Poczos, B., Schneider, J. (2017), The Statistical Reccurent Unit, 
 (codes on Github) https://github.com/junieroliva/recurrent
 
 G. Zilly, J., K. Srivastava, R., Koutník, J., Schmidhuber, J. (2017), Recurrent Highway Networks, in *ICML 2017*, Sydney, Australia. 
+
+(Earlier work on Highway Networks) K. Srivastava, R., Greff, K., Schmidhuber, J. (2015), Training Very Deep Networks, *arXiv*: 1507.06228v2. 
