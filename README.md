@@ -24,4 +24,6 @@ B. Oliva, J., Poczos, B., Schneider, J. (2017), The Statistical Reccurent Unit, 
 
 G. Zilly, J., K. Srivastava, R., Koutník, J., Schmidhuber, J. (2017), Recurrent Highway Networks, in *ICML 2017*, Sydney, Australia. 
 
+Suarez, J. (2017), Character-Level Language Modeling with Recurrent Highway Hypernetworks, in *NIPS 2017*, Long Beach, New York, USA. 
+
 (Earlier work on Highway Networks) K. Srivastava, R., Greff, K., Schmidhuber, J. (2015), Training Very Deep Networks, *arXiv*: 1507.06228v2. 
