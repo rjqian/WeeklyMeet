@@ -17,7 +17,7 @@ Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-
 ### May 10  Bitcoin Price Prediction with Logistic Regression, LDA & Random Forest
 J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction, in *NIPS Time Series Workshop 2016*, Barcelona, Spain.  
 
-### May 20  Novel building blocks in RNNs
+### May 20  Novel Architectures in RNNs
 #### Statistical Recurrent Unit (SRU)
 B. Oliva, J., Poczos, B., Schneider, J. (2017), The Statistical Recurrent Unit, in *ICML 2017*, Sydney, Australia. 
 
