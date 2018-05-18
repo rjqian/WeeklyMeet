@@ -17,11 +17,12 @@ Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-
 ### May 10  Bitcoin Price Prediction with Logistic Regression, LDA & Random Forest
 J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction, in *NIPS Time Series Workshop 2016*, Barcelona, Spain.  
 
-### May 20  Novel Architectures in RNNs
-#### Statistical Recurrent Unit (SRU)
-B. Oliva, J., Poczos, B., Schneider, J. (2017), The Statistical Recurrent Unit, in *ICML 2017*, Sydney, Australia. 
+### May 20  Multiscales RNNs
+(Clockwork RNN (CW-RNN)) Koutník, J., Greff, K., Gomez, F., Schmidhuber, J. (2014), A Clockwork RNN, in *ICML 2014*, Beijing, China. 
 
-#### Recurrent Highway Network (RHN) 
+(Statistical Recurrent Unit (SRU)) B. Oliva, J., Poczos, B., Schneider, J. (2017), The Statistical Recurrent Unit, in *ICML 2017*, Sydney, Australia. 
+
+### May 24  Recurrent Highway Network (RHN) 
 G. Zilly, J., K. Srivastava, R., Koutník, J., Schmidhuber, J. (2017), Recurrent Highway Networks, in *ICML 2017*, Sydney, Australia. 
 
 Suarez, J. (2017), Character-Level Language Modeling with Recurrent Highway Hypernetworks, in *NIPS 2017*, Long Beach, New York, USA. 
