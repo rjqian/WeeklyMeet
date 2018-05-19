@@ -12,8 +12,6 @@ Ghaderi, A., Sanandaji, B. M., Ghaderi, F. (2017), Deep Forecast: Deep Learning-
 
 (Detailed version) Zhang, Y. (2013), Modeling High-Frequency Order Book Dynamics with Support Vector Machines, Doctor of Philosophy Thesis, Florida State University, Tallahassee, USA. 
 
-(Related post) Zhulenev, E. (2014), Stock Price Prediction With Big Data and Machine Learning, http://eugenezhulenev.com/blog/2014/11/14/stock-price-prediction-with-big-data-and-machine-learning/. 
-
 ### May 10  Bitcoin Price Prediction with Logistic Regression, LDA & Random Forest
 J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction, in *NIPS Time Series Workshop 2016*, Barcelona, Spain.  
 
