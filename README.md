@@ -18,9 +18,9 @@ J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction
 ### May 20  Multiscales RNNs
 (Clockwork RNN (CW-RNN)) Koutník, J., Greff, K., Gomez, F., Schmidhuber, J. (2014), A Clockwork RNN, in *ICML 2014*, Beijing, China. 
 
-(Fast-Slow RNN (FS-RNN)) Mujika, A., Meier, F., Steger, A. (2017), Fast-Slow Recurrent Neural Networks, in *NIPS 2017*, Long Beach, CA, USA. 
-
 (Statistical Recurrent Unit (SRU)) B. Oliva, J., Poczos, B., Schneider, J. (2017), The Statistical Recurrent Unit, in *ICML 2017*, Sydney, Australia. 
+
+(Fast-Slow RNN (FS-RNN)) Mujika, A., Meier, F., Steger, A. (2017), Fast-Slow Recurrent Neural Networks, in *NIPS 2017*, Long Beach, CA, USA. 
 
 ### May 24  Recurrent Highway Network (RHN) 
 G. Zilly, J., K. Srivastava, R., Koutník, J., Schmidhuber, J. (2017), Recurrent Highway Networks, in *ICML 2017*, Sydney, Australia. 
