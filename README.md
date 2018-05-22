@@ -28,3 +28,5 @@ G. Zilly, J., K. Srivastava, R., Koutník, J., Schmidhuber, J. (2017), Recurrent
 Suarez, J. (2017), Character-Level Language Modeling with Recurrent Highway Hypernetworks, in *NIPS 2017*, Long Beach, CA, USA. 
 
 (Earlier work on Highway Networks) K. Srivastava, R., Greff, K., Schmidhuber, J. (2015), Training Very Deep Networks, *arXiv*: 1507.06228v2. 
+
+### May 31  Attention Mechanism in RNNs 
