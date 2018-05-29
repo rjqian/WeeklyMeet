@@ -22,11 +22,5 @@ J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction
 
 (Fast-Slow RNN (FS-RNN)) Mujika, A., Meier, F., Steger, A. (2017), Fast-Slow Recurrent Neural Networks, in *NIPS 2017*, Long Beach, CA, USA. 
 
-### May 24  One Way to Realize Deep Transition in RNNs: Recurrent Highway Network (RHN) 
-G. Zilly, J., K. Srivastava, R., Koutník, J., Schmidhuber, J. (2017), Recurrent Highway Networks, in *ICML 2017*, Sydney, Australia. 
-
-Suarez, J. (2017), Character-Level Language Modeling with Recurrent Highway Hypernetworks, in *NIPS 2017*, Long Beach, CA, USA. 
-
-(Earlier work on Highway Networks) K. Srivastava, R., Greff, K., Schmidhuber, J. (2015), Training Very Deep Networks, *arXiv*: 1507.06228v2. 
-
-### May 31  Attention Mechanism in RNNs 
+### May 29  Predicting Short-term Bitcoin Price Fluctuations with Mixture Models 
+Guo, T., Antulov-Fantulin, N. (2018), Predicting short-term Bitcoin price fluctuations from buy and sell orders, arXiv: 1802.04065v1 [stat.ML]. 
