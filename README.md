@@ -24,3 +24,7 @@ J. Amjad, M., Shah, D. (2016), Trading Bitcoin and Online Time Series Prediction
 
 ### May 29  Predicting Short-term Bitcoin Price Fluctuations with Mixture Models 
 Guo, T., Antulov-Fantulin, N. (2018), Predicting short-term Bitcoin price fluctuations from buy and sell orders, arXiv: 1802.04065v1 [stat.ML]. 
+
+### Jun 5 High-Frequency Trading
+Wang, Z., Zheng, W. (2015), High-Frequency Trading and Probability Theory, World Scientific Publishing Co. Pte. Ltd., Singapore. 
+
