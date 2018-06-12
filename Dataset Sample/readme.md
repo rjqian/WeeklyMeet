@@ -9,7 +9,7 @@ Past 24 hours' comprehensive transaction records of Bitcoin, accessed from the B
 
 Each row is a transaction record. It has five items (columns): 
 
-**date**: 
+**date**: The time the transaction happened. It is the Unix system time. The origin is 00:00:00, Jan. 1st, 1970. The time unit is second. 
 
 #### tid: 
 
