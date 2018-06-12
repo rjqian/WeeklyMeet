@@ -9,4 +9,12 @@ Past 24 hours' comprehensive transaction records of Bitcoin, accessed from the B
 
 Each row is a transaction record. It has five items (columns): 
 
-#### date: 
+**date**: 
+
+#### tid: 
+
+#### price: 
+
+#### type: 
+
+#### amount: 
