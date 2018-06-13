@@ -17,4 +17,4 @@ Each row is one transaction record. It has five items (columns):
 
 **type**: 0 for buy, 1 for sell.  
 
-**amount**: The number of Bitcoin traded. 
+**amount**: The number of Bitcoins traded. 
