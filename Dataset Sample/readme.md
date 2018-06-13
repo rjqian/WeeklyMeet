@@ -13,7 +13,7 @@ Each row is one transaction record. It has five items (columns):
 
 **tid**: Transaction ID. A *unique* sequence of numbers to indicate this transaction. 
 
-**price**: The price in this transaction. It is measured by USD. 
+**price**: The price in this transaction. It is quoted in USD. 
 
 **type**: 0 for buy, 1 for sell.  
 
